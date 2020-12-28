@@ -1,4 +1,4 @@
-# fitness
+# Fitness app(Work in progress)
 
 A new Flutter application.
 
