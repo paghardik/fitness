@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="812" viewBox="0 0 375 812">
+  <defs>
+    <clipPath id="clip-Onboarding_1">
+      <rect width="375" height="812"/>
+    </clipPath>
+  </defs>
+  <g id="Onboarding_1" data-name="Onboarding 1" clip-path="url(#clip-Onboarding_1)">
+    <rect width="375" height="812" fill="#ff9b70"/>
+    <g id="Group_1510" data-name="Group 1510">
+      <circle id="Ellipse_193" data-name="Ellipse 193" cx="329" cy="329" r="329" transform="translate(-147 -117)" fill="#fff" opacity="0.25"/>
+      <circle id="Ellipse_194" data-name="Ellipse 194" cx="289" cy="289" r="289" transform="translate(-108 -78)" fill="#fff" opacity="0.57"/>
+      <path id="Path_730" data-name="Path 730" d="M230,0c57.923,0,162.806-24.309,203.431,11.118C481.486,53.024,460,160.548,460,229.5,460,356.249,357.025,459,230,459S0,356.249,0,229.5C0,160.676-4.048,59.406,44.032,17.348,84.512-18.061,171.949,0,230,0Z" transform="translate(-49 -19)" fill="#fff" opacity="0.77"/>
+      <circle id="Ellipse_196" data-name="Ellipse 196" cx="162" cy="162" r="162" transform="translate(19 39)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
